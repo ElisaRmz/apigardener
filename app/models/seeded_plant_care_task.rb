@@ -1,0 +1,2 @@
+class SeededPlantCareTask < ApplicationRecord
+end
