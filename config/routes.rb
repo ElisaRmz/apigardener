@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :seeded_plants
   resources :seeded_plant_care_tasks
   resources :plant_cares
   resources :plants
