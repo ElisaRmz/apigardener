@@ -1,0 +1,2 @@
+class PlantCare < ApplicationRecord
+end
